@@ -1,0 +1,94 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>PORTFOLIO</title>
+  <link rel="stylesheet" href="style.css">
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+
+<body>
+  <header class="header">
+    <nav class="navbar">
+      <img src="C:\Users\rjkir\Downloads\logo0.png" class="logo">
+      <a href="#" class="active">Home</a>
+      <a href="#">About</a>
+      <a href="#"> Skills</a>
+      <a href="#">Resume</a>
+      <a href="#">Contact</a>
+
+    </nav>
+  </header>
+  <section class="home">
+    <div class="home-content">
+      <h1>Hi, I'm CHAITRA</h1>
+      <p>This is my official portfolio website to showes all Details.</p>
+      <div class="btn-box">
+        <a href="#">DOWNLOAD CV</a>
+        <a href="#">HIRE ME</a>
+      </div>
+    </div>
+    <div class="home-sci">
+      <a href="#"><i class='bx bxl-linkedin-square'></i></a>
+      <a href="#"><i class='bx bxl-twitter'></i></a>
+    </div>
+  </section>
+  <!--------About section start---->
+  <section class="about">
+    <div class="main">
+      <img src="C:\Users\rjkir\Downloads\cc.png">
+      <div class="about-content">
+        <h1>ABOUT ME</h1>
+        <p><b>Myself CHAITRA ,</b><br>
+          I'm pursuing my 3rd year B.E,Computer Science and Engineering in Acharya Institute of Technology,
+          Bangalore(Karnataka).
+        </p>
+      </div>
+    </div>
+  </section>
+  <!--------Skills section start---->
+  <section class="skills">
+    <div class="main">
+      <div class="skills-content">
+        <h2>SKILLS</h2>
+        <ol>
+          <li>Communication skill</li>
+          <li>Social media skill</li>
+          <li>Basic knowledge of C,JAVA,PYTHON,HTML.</li>
+        </ol>
+      </div>
+    </div>
+  </section>
+  <!--------Resume section start---->
+  <section class="resume">
+    <div class="main">
+      <div class="resume-content">
+        <h1>RESUME</h1>
+        <p>Click the below box to get resume in pdf form.</p>
+        <a href="C:\Users\rjkir\Downloads\resumeE.pdf"></a>
+      </div>
+    </div>
+  </section>
+  <!-----Contact section start------>
+  <section class="contact">
+    <div class="main">
+      <div class="contact-content">
+        <h1>CONTACT ME</h1>
+        <!----------footer start-------->
+        <footer>
+          <div class="social">
+            <a href="#"><i class='bx bxl-gmail'></i></a>
+            <a href="#"><i class='bx bxl-linkedin-square'></i></a>
+            <a href="#"><i class='bx bxl-twitter'></i></a>
+            <a href="#"><i class='bx bxl-instagram-alt'></i></a>
+          </div>
+          <p class="end">CopyRight By Chaitra R G.</p>
+      </div>
+    </div>
+    </footer>
+  </section>
+</body>
+
+</html>
